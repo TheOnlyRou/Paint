@@ -4,10 +4,18 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/model/Shape.java</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/view/customCanvas.java</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/model/Paint.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/controller/Action.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/model/RoundRectangle.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/view/customCanvas1.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/view/Application.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/model/Ellipse.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/controller/Save.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/model/AbstractShape.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/controller/Load.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/model/Rectangle.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/model/Circle.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/controller/DrawingEngine.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Paint/Paint/src/paint/model/Square.java</file>
         </group>
     </open-files>
 </project-private>

@@ -9,13 +9,14 @@ package paint.model;
  *
  * @author user
  */
-public class Paint {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class AbstractShape{
     
+    protected int x, y;
+    public enum activeShape{CIRCLE,ELLIPSE,SQUARE,RECTANGLE,ROUNDRECT};
+    
+    public AbstractShape(int x, int y)
+    {
+	this.x = x;
+	this.y = y;
+    }    
 }

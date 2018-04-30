@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="paint.model.Circle" id="Circle0">
+    <void property="color">
+     <object class="java.awt.Color" id="Color0">
+      <int>255</int>
+      <int>255</int>
+      <int>255</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="fillColor">
+     <object class="java.awt.Color" id="Color1">
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="position">
+     <object class="java.awt.Point" id="Point0">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point0"/>
+        <int>180</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point0"/>
+        <int>95</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>radius</string>
+      <double>154.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="paint.model.Circle" id="Circle1">
+    <void property="color">
+     <object idref="Color0"/>
+    </void>
+    <void property="fillColor">
+     <object idref="Color1"/>
+    </void>
+    <void property="position">
+     <object class="java.awt.Point" id="Point1">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point1"/>
+        <int>502</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point1"/>
+        <int>183</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>radius</string>
+      <double>111.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="paint.model.Circle" id="Circle2">
+    <void property="color">
+     <object idref="Color0"/>
+    </void>
+    <void property="fillColor">
+     <object idref="Color1"/>
+    </void>
+    <void property="position">
+     <object class="java.awt.Point" id="Point2">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point2"/>
+        <int>333</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point2"/>
+        <int>357</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>radius</string>
+      <double>122.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="paint.model.Circle" id="Circle3">
+    <void property="color">
+     <object idref="Color0"/>
+    </void>
+    <void property="fillColor">
+     <object idref="Color1"/>
+    </void>
+    <void property="position">
+     <object class="java.awt.Point" id="Point3">
+      <void class="java.awt.Point" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Point3"/>
+        <int>672</int>
+       </void>
+      </void>
+      <void class="java.awt.Point" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Point3"/>
+        <int>390</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>radius</string>
+      <double>101.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
